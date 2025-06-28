@@ -8,7 +8,9 @@ public class Bienvenido2 {
     public static void main(String[] args) {
 
         System.out.print("Bienvenido a ");
-        System.out.println("la progrmación en Java!");
+        System.out.println("la progrmación en Java!"); //Se imprime con un salto de linea al final
+
+        //Resultado: Bienvenido a la programación en Java!
 
     }//Fin del método main
 }//Fin de la Clase Bienvenido 2
